@@ -194,3 +194,18 @@ p {
    
     
 }
+
+/**380*/
+
+@media screen and (max-width:500px){
+    p{
+        padding: 0 50px;
+    }
+    .content{
+        padding-top: 50px;
+    }
+
+
+}
+
+
